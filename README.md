@@ -1,0 +1,2 @@
+Canvas-OSMC-Symbol-Renderer
+===========================
